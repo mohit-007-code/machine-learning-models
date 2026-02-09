@@ -1,0 +1,501 @@
+Student_ID,Name,Age,Gender,Study_Hours_Per_Day,Attendance_Percentage,Internet_Access_at_Home,Extracurricular_Activities,Parental_Education_Level,Family_Income,Previous_Exam_Score,Stress_Level,Sleep_Hours,Passed
+1001,Arjun,17,Male,2.47,66.68,No,No,Master,High,59.22,6,8.87,0
+1002,Priya,22,Female,0.75,66.7,No,No,Master,Low,79.27,8,4.68,1
+1003,Kiran,17,Male,2.22,61.47,No,No,Master,Low,77.27,8,5.16,0
+1004,Rahul,17,Female,,89.46,No,No,High School,Medium,60.36,7,8.34,1
+1005,Arjun,22,Female,4.5,86.55,No,Yes,High School,High,55.79,6,8.63,0
+1006,Vikram,20,Male,8.98,78.99,No,No,,High,58.86,2,6.1,1
+1007,Sohan,24,Female,8.27,93.77,No,No,Bachelor,High,50.86,7,4.25,0
+1008,Arjun,17,Female,3.75,92.23,No,No,PhD,Medium,47.32,5,4.2,0
+1009,Kiran,22,Male,2.96,83.41,Yes,No,PhD,Medium,63.98,6,6.87,1
+1010,Rahul,21,Female,4.11,94.73,No,Yes,High School,Medium,51.11,10,5.96,0
+1011,Priya,19,Male,6.11,68.23,No,Yes,PhD,Medium,52.25,8,4.14,1
+1012,Kiran,19,Female,3.05,64.48,Yes,Yes,High School,Medium,74.41,8,,0
+1013,Kiran,17,Male,6.43,70.79,No,No,,,93.11,3,4.06,0
+1014,Sohan,20,Male,4.39,62.28,Yes,No,Bachelor,,71.22,7,7.94,1
+1015,Neha,20,Female,5.74,,Yes,Yes,,High,39.62,1,5.53,1
+1016,Rahul,21,Female,4.64,97.46,No,Yes,Master,Low,39.54,1,4.2,1
+1017,Riya,17,Female,3.3,61.57,Yes,Yes,Master,High,92.09,7,6.94,0
+1018,Kiran,19,Female,9.51,64.88,No,No,Master,Low,52.84,10,5.99,1
+1019,Neha,20,Female,7.75,78.09,Yes,No,,Medium,40.52,9,,0
+1020,Riya,17,Male,1.83,97.36,Yes,Yes,PhD,Low,70.94,7,6.72,1
+1021,Rahul,23,Female,8.75,72.65,Yes,Yes,Bachelor,High,72.42,10,5.38,1
+1022,Amit,20,Male,5.13,,No,Yes,Master,High,73.91,5,7.55,1
+1023,Vikram,22,Male,9.0,61.66,No,No,Master,Low,51.04,8,5.36,1
+1024,Neha,23,Female,8.1,65.93,Yes,No,Master,,35.91,2,8.52,1
+1025,Pooja,24,Male,4.54,99.47,Yes,No,Bachelor,Medium,92.9,9,5.87,1
+1026,Amit,20,Male,0.71,98.6,No,Yes,Master,Medium,50.05,6,6.75,0
+1027,Vikram,19,Male,3.05,60.2,No,Yes,Bachelor,High,75.56,9,4.25,1
+1028,Sohan,18,Male,5.65,98.07,Yes,No,Master,,77.4,2,6.13,0
+1029,Arjun,23,Female,6.52,,Yes,Yes,,Low,71.6,3,8.16,1
+1030,Priya,24,Male,2.95,94.72,No,No,,Medium,53.77,8,,1
+1031,Pooja,21,Female,1.82,,No,Yes,Bachelor,,51.27,1,5.12,1
+1032,Sohan,21,Female,8.43,80.62,No,Yes,,Medium,70.86,10,,0
+1033,Rahul,19,Male,9.85,79.55,No,Yes,Bachelor,,86.97,7,8.09,0
+1034,Sohan,20,Female,5.49,86.67,No,Yes,,,91.8,7,8.65,1
+1035,Arjun,17,Female,2.13,65.59,Yes,No,,High,41.35,1,4.48,0
+1036,Rahul,20,Female,3.09,61.2,No,Yes,Bachelor,Medium,44.29,9,6.25,1
+1037,Pooja,19,Male,0.67,72.32,Yes,No,PhD,Low,91.68,8,5.69,1
+1038,Arjun,21,Female,9.19,88.19,No,No,,High,79.19,4,8.35,0
+1039,Riya,20,Female,,68.07,Yes,No,Master,High,87.98,10,4.42,0
+1040,Priya,21,Female,5.98,86.94,No,Yes,PhD,Low,47.16,5,5.06,0
+1041,Pooja,23,Male,3.1,98.8,No,No,Bachelor,High,70.26,2,7.76,0
+1042,Riya,24,Female,5.76,63.76,Yes,No,PhD,,77.07,9,4.26,1
+1043,Vikram,17,Male,6.69,86.9,Yes,No,High School,,75.81,6,6.46,0
+1044,Pooja,23,Male,8.38,77.75,No,Yes,High School,Medium,59.49,3,6.21,0
+1045,Vikram,21,Male,2.46,94.73,No,Yes,,Medium,35.92,7,5.67,1
+1046,Rahul,21,Male,0.6,67.09,No,No,,Low,69.98,9,5.97,0
+1047,Riya,18,Male,1.8,87.71,No,Yes,Master,Medium,50.19,3,6.65,0
+1048,Priya,18,Male,9.05,93.52,No,No,PhD,,62.02,2,4.81,0
+1049,Arjun,23,Female,8.8,97.78,Yes,No,High School,Low,92.45,7,6.86,0
+1050,Kiran,22,Male,6.18,87.33,Yes,Yes,,Low,58.94,7,,1
+1051,Sohan,23,Female,6.2,79.89,No,No,PhD,Medium,85.39,4,7.8,1
+1052,Amit,18,Female,6.82,84.71,Yes,Yes,,,46.31,9,4.77,0
+1053,Priya,21,Male,,94.76,Yes,Yes,,Low,75.35,8,4.75,0
+1054,Riya,19,Female,9.19,82.82,Yes,No,High School,,93.62,1,5.34,1
+1055,Kiran,23,Female,4.48,61.22,No,Yes,High School,,41.11,1,5.81,0
+1056,Priya,21,Female,4.14,97.24,Yes,Yes,,,35.5,5,6.04,0
+1057,Riya,19,Female,5.43,87.58,No,No,Bachelor,Medium,61.01,6,7.4,0
+1058,Neha,19,Male,0.95,87.06,Yes,No,,High,40.56,3,4.28,0
+1059,Neha,18,Female,2.08,68.63,No,Yes,,High,79.9,9,4.17,0
+1060,Vikram,23,Male,,86.36,Yes,Yes,Master,Low,89.87,10,,0
+1061,Priya,20,Female,1.29,75.75,No,No,Master,,61.04,6,,0
+1062,Neha,17,Female,6.23,86.05,No,Yes,Master,Medium,50.52,4,4.97,0
+1063,Riya,18,Male,2.83,64.26,Yes,Yes,Bachelor,,61.06,7,7.21,0
+1064,Vikram,18,Female,4.2,86.31,No,Yes,Bachelor,,78.41,8,5.3,1
+1065,Riya,20,Female,3.24,99.98,No,Yes,,Medium,35.54,9,8.43,1
+1066,Vikram,17,Female,3.88,,No,Yes,Master,High,70.37,6,8.48,1
+1067,Priya,21,Male,7.33,99.09,No,Yes,Bachelor,,71.8,6,5.49,0
+1068,Kiran,22,Female,3.32,76.28,No,Yes,High School,,73.26,8,5.15,0
+1069,Arjun,23,Male,5.88,94.83,No,No,,High,49.52,5,6.06,1
+1070,Pooja,22,Female,5.02,91.3,No,No,PhD,Medium,77.84,3,5.2,0
+1071,Kiran,21,Male,6.8,82.68,No,No,,Low,40.48,3,7.36,1
+1072,Rahul,24,Male,9.4,89.54,Yes,No,PhD,High,46.96,6,8.13,0
+1073,Riya,18,Female,7.46,95.14,Yes,No,Master,Low,87.65,2,7.37,1
+1074,Rahul,17,Female,2.54,76.17,No,Yes,PhD,Low,79.32,6,8.12,1
+1075,Kiran,18,Male,0.8,73.08,No,Yes,Master,High,35.82,6,5.98,1
+1076,Vikram,19,Male,2.99,86.7,Yes,Yes,High School,,49.9,8,4.78,0
+1077,Pooja,18,Female,6.15,92.31,Yes,Yes,PhD,Low,47.86,7,7.69,1
+1078,Pooja,18,Male,0.99,90.49,Yes,No,,Low,51.25,8,5.8,0
+1079,Amit,21,Female,5.22,,No,Yes,Master,Medium,49.85,9,7.36,0
+1080,Pooja,21,Female,6.17,77.42,Yes,Yes,,,38.75,6,5.35,0
+1081,Arjun,21,Female,3.68,92.71,No,No,Bachelor,Low,62.54,3,4.41,0
+1082,Pooja,22,Female,7.82,64.81,No,Yes,Master,Medium,78.96,10,8.96,0
+1083,Kiran,19,Male,1.51,81.78,Yes,Yes,PhD,,71.4,3,,0
+1084,Amit,24,Female,1.21,60.23,No,No,Master,High,75.37,1,8.94,0
+1085,Kiran,24,Male,7.42,72.98,No,Yes,,High,39.87,5,8.89,1
+1086,Kiran,21,Female,5.21,74.66,No,Yes,High School,Medium,92.09,4,7.97,1
+1087,Sohan,17,Male,7.04,75.85,No,Yes,Master,High,85.31,9,7.3,1
+1088,Amit,22,Female,4.63,87.82,Yes,Yes,PhD,Low,83.31,9,6.89,0
+1089,Kiran,20,Male,2.84,75.54,Yes,Yes,Bachelor,,84.38,5,8.33,0
+1090,Sohan,17,Male,8.28,77.95,No,No,High School,Low,90.96,10,5.45,0
+1091,Sohan,23,Female,8.09,69.5,No,No,Bachelor,Low,67.66,4,6.34,0
+1092,Amit,23,Female,7.1,74.93,Yes,No,Master,High,47.02,7,7.1,1
+1093,Rahul,17,Female,3.09,69.09,No,No,,Low,72.01,6,6.06,0
+1094,Vikram,21,Female,6.11,62.93,Yes,No,,High,79.57,4,6.14,1
+1095,Arjun,20,Male,,84.14,No,No,PhD,,79.28,10,5.65,0
+1096,Vikram,20,Female,1.37,86.73,No,Yes,,,66.29,2,6.82,1
+1097,Pooja,22,Male,9.21,84.78,Yes,No,High School,Low,39.11,1,8.25,0
+1098,Arjun,20,Male,1.8,78.54,Yes,No,,Medium,57.27,4,5.01,1
+1099,Pooja,23,Female,9.53,75.19,Yes,Yes,PhD,High,90.25,4,8.67,0
+1100,Kiran,19,Male,4.74,94.53,Yes,Yes,Master,High,70.07,1,7.45,1
+1101,Riya,21,Male,2.26,80.76,No,No,Master,Low,67.3,6,8.12,0
+1102,Amit,20,Male,5.65,79.17,Yes,Yes,,High,51.13,4,6.78,1
+1103,Arjun,22,Male,8.79,61.03,No,No,Bachelor,High,57.11,1,7.9,1
+1104,Arjun,23,Female,,73.65,Yes,Yes,Master,Medium,88.72,1,4.08,0
+1105,Kiran,19,Female,8.16,75.21,Yes,No,,Medium,74.99,1,8.09,1
+1106,Rahul,18,Female,6.76,75.95,No,Yes,PhD,Low,82.24,8,4.2,0
+1107,Sohan,18,Female,7.08,83.21,Yes,Yes,,Medium,62.26,10,8.45,0
+1108,Kiran,19,Male,8.57,81.34,Yes,No,Master,Low,72.81,8,8.96,0
+1109,Neha,23,Male,2.87,84.32,Yes,No,PhD,,49.9,2,5.47,1
+1110,Sohan,22,Female,5.15,90.6,Yes,No,,Low,77.33,7,5.05,1
+1111,Amit,19,Female,2.6,92.52,No,No,High School,,60.66,8,7.83,0
+1112,Sohan,21,Female,9.88,88.72,No,No,PhD,Low,61.55,8,5.27,0
+1113,Rahul,21,Male,9.47,98.22,Yes,Yes,High School,High,73.96,10,8.33,1
+1114,Sohan,18,Female,0.87,60.73,Yes,No,Bachelor,Medium,91.18,7,4.51,1
+1115,Amit,20,Female,7.2,67.83,Yes,No,PhD,,38.84,5,4.63,1
+1116,Rahul,22,Female,9.29,60.3,No,Yes,High School,Low,84.48,1,8.9,0
+1117,Vikram,18,Male,2.22,85.9,No,Yes,Master,Medium,52.54,9,7.37,0
+1118,Arjun,20,Male,5.9,95.92,No,No,Master,Low,61.64,7,8.23,0
+1119,Arjun,20,Male,9.2,69.74,No,Yes,Bachelor,Medium,36.31,2,5.62,0
+1120,Pooja,24,Male,0.82,97.08,Yes,Yes,PhD,Medium,53.06,6,7.38,0
+1121,Vikram,21,Male,7.13,62.41,Yes,No,PhD,Low,65.16,2,6.97,1
+1122,Vikram,23,Male,3.32,97.38,Yes,Yes,PhD,,38.37,1,7.02,0
+1123,Sohan,17,Male,,74.06,No,Yes,Bachelor,,64.47,7,7.41,1
+1124,Arjun,23,Male,9.73,64.06,Yes,No,PhD,High,90.63,2,6.88,1
+1125,Amit,17,Female,9.47,79.43,No,No,Master,Medium,41.32,2,6.15,0
+1126,Priya,19,Female,5.01,70.27,No,Yes,High School,High,80.87,5,5.38,1
+1127,Priya,21,Male,8.69,71.39,Yes,Yes,Master,High,59.58,5,,0
+1128,Rahul,20,Male,8.52,72.29,Yes,No,Master,Low,74.31,7,5.13,1
+1129,Arjun,22,Female,3.53,92.12,Yes,Yes,High School,Low,50.61,1,7.46,0
+1130,Arjun,17,Male,8.37,81.57,No,Yes,Master,Low,44.57,8,5.17,0
+1131,Priya,23,Male,0.85,72.45,No,Yes,Bachelor,Medium,44.63,3,7.13,1
+1132,Arjun,20,Male,6.16,84.41,Yes,No,High School,Low,39.23,4,,0
+1133,Sohan,17,Female,2.69,88.65,Yes,Yes,Master,Low,46.14,9,5.09,1
+1134,Neha,17,Female,1.65,70.9,No,Yes,,Medium,74.85,4,4.3,0
+1135,Riya,24,Female,1.23,76.54,Yes,No,Master,Medium,87.9,10,4.65,0
+1136,Vikram,17,Female,7.11,64.88,No,Yes,Bachelor,,83.85,5,7.03,0
+1137,Pooja,22,Female,3.73,67.25,No,Yes,PhD,Low,76.11,7,8.25,1
+1138,Rahul,21,Male,7.39,87.24,Yes,No,Master,Low,41.63,4,4.22,1
+1139,Neha,22,Female,1.12,67.26,Yes,No,PhD,Low,52.35,1,7.67,0
+1140,Priya,18,Male,3.5,81.01,Yes,No,,,53.59,9,5.71,1
+1141,Vikram,20,Male,5.63,88.36,Yes,No,Master,Low,50.0,4,6.39,0
+1142,Arjun,21,Female,8.01,64.28,No,Yes,High School,,65.9,9,8.64,1
+1143,Pooja,24,Female,3.53,82.69,No,Yes,PhD,High,67.13,6,5.66,1
+1144,Arjun,21,Male,6.45,70.26,No,No,,,56.41,1,6.33,0
+1145,Amit,21,Male,8.92,98.52,Yes,No,High School,High,56.23,3,4.07,0
+1146,Amit,23,Male,6.35,79.34,No,Yes,High School,Low,84.71,2,4.41,0
+1147,Pooja,21,Female,2.71,92.24,Yes,No,High School,High,82.36,9,5.29,0
+1148,Pooja,24,Female,0.73,82.01,Yes,Yes,High School,,53.47,1,4.14,0
+1149,Priya,22,Female,8.77,61.74,Yes,No,Master,Medium,89.83,9,7.16,1
+1150,Pooja,21,Female,0.7,85.33,Yes,Yes,Master,High,92.17,9,6.13,1
+1151,Sohan,19,Female,8.81,98.06,Yes,No,Master,High,54.6,8,6.74,0
+1152,Arjun,20,Male,5.52,84.06,Yes,No,,Low,56.27,8,4.87,0
+1153,Neha,21,Female,9.42,,No,Yes,,,65.34,1,5.48,0
+1154,Kiran,20,Male,8.09,95.37,Yes,No,,High,91.47,8,7.32,1
+1155,Pooja,19,Male,9.98,69.12,No,Yes,Bachelor,High,87.58,10,8.83,0
+1156,Rahul,19,Male,3.83,68.48,No,Yes,,High,41.15,3,4.25,0
+1157,Amit,20,Female,7.79,,Yes,Yes,Master,High,58.56,7,8.45,1
+1158,Sohan,17,Female,4.32,76.44,Yes,Yes,Master,Medium,68.2,1,6.88,1
+1159,Vikram,18,Female,5.06,93.59,Yes,Yes,Bachelor,,65.19,1,6.82,1
+1160,Kiran,23,Male,6.46,96.0,No,No,Bachelor,Low,46.63,10,6.5,1
+1161,Neha,17,Male,8.8,74.14,Yes,No,,Low,86.53,5,4.35,0
+1162,Kiran,17,Male,9.85,69.47,No,Yes,PhD,Medium,75.62,5,4.45,1
+1163,Pooja,22,Male,,91.22,Yes,No,Bachelor,,85.27,8,7.0,1
+1164,Priya,23,Male,,70.99,Yes,Yes,High School,High,86.53,7,5.7,0
+1165,Amit,23,Male,4.5,92.9,No,No,Master,Medium,79.9,8,8.59,0
+1166,Amit,17,Female,7.51,76.95,No,No,High School,,61.35,6,6.03,0
+1167,Vikram,21,Female,2.77,86.7,Yes,No,Master,High,71.63,6,4.72,1
+1168,Priya,22,Female,1.55,63.82,No,No,Master,Medium,44.62,2,7.57,0
+1169,Arjun,22,Female,3.87,84.95,No,Yes,Bachelor,,75.42,6,5.47,1
+1170,Riya,19,Male,3.23,78.07,No,Yes,Bachelor,Low,45.76,5,6.63,1
+1171,Sohan,24,Male,3.31,83.46,No,No,High School,Low,76.64,3,7.49,1
+1172,Amit,23,Female,2.72,66.72,No,No,Master,,48.78,6,8.5,0
+1173,Rahul,17,Male,0.9,89.47,Yes,Yes,High School,Low,42.05,8,7.96,1
+1174,Amit,19,Female,0.67,94.51,Yes,No,PhD,,44.92,9,7.38,0
+1175,Kiran,20,Female,,68.67,No,Yes,High School,High,35.12,1,,0
+1176,Amit,18,Female,4.56,,Yes,Yes,,,78.12,3,8.73,0
+1177,Amit,24,Male,4.15,60.95,Yes,Yes,High School,High,78.94,3,5.48,1
+1178,Riya,24,Female,6.96,85.68,No,No,,Medium,65.9,8,4.01,1
+1179,Riya,24,Female,2.57,84.28,Yes,Yes,,,44.68,1,5.36,1
+1180,Neha,22,Female,9.52,81.87,No,No,,Medium,40.01,5,5.09,0
+1181,Arjun,20,Male,7.97,69.28,No,Yes,PhD,Low,36.15,3,7.31,1
+1182,Rahul,24,Male,1.35,75.64,Yes,No,High School,High,44.94,2,7.17,1
+1183,Amit,20,Female,4.47,83.78,No,No,High School,,88.45,8,6.97,1
+1184,Amit,21,Male,8.85,79.87,No,No,PhD,Medium,49.49,3,4.08,1
+1185,Sohan,24,Male,9.47,99.51,No,Yes,Master,High,56.26,7,7.64,1
+1186,Riya,18,Male,4.94,65.46,No,Yes,Bachelor,High,41.32,1,5.62,0
+1187,Rahul,20,Male,6.33,87.81,No,No,High School,Low,48.34,6,7.33,0
+1188,Vikram,20,Male,2.09,76.17,Yes,No,Bachelor,Low,66.15,3,,0
+1189,Neha,18,Male,9.92,77.13,Yes,No,PhD,High,71.47,8,5.71,0
+1190,Arjun,24,Male,2.7,88.7,No,Yes,Master,High,49.72,6,4.67,1
+1191,Priya,18,Male,9.46,87.7,No,Yes,Master,,38.46,2,4.47,0
+1192,Arjun,20,Male,6.67,99.65,Yes,Yes,Master,High,58.46,6,8.16,1
+1193,Kiran,18,Male,6.27,65.14,No,Yes,PhD,,49.05,7,8.59,0
+1194,Amit,20,Female,5.37,64.16,Yes,No,,High,48.17,5,7.25,0
+1195,Neha,20,Female,2.69,88.97,No,No,,Low,92.59,3,4.52,0
+1196,Kiran,21,Male,2.18,83.14,No,Yes,Bachelor,,71.98,4,6.01,1
+1197,Rahul,17,Female,2.59,70.97,No,Yes,,Medium,68.41,4,7.64,1
+1198,Priya,20,Female,2.27,63.18,No,No,,Low,59.95,6,7.9,0
+1199,Riya,24,Male,7.91,,No,Yes,Master,,60.74,10,4.59,1
+1200,Neha,19,Male,3.83,95.77,No,Yes,Master,,67.45,1,4.0,0
+1201,Neha,22,Male,1.05,67.67,No,Yes,Bachelor,Medium,76.79,4,7.56,0
+1202,Amit,23,Female,9.71,72.93,Yes,Yes,High School,,77.13,10,5.78,0
+1203,Pooja,17,Female,8.9,69.07,Yes,Yes,Bachelor,High,45.3,4,5.27,1
+1204,Neha,17,Male,9.31,74.2,Yes,Yes,Bachelor,Medium,65.01,10,4.06,0
+1205,Sohan,17,Male,9.95,62.78,No,No,PhD,Low,59.72,1,6.7,0
+1206,Priya,21,Male,2.15,80.76,No,Yes,PhD,Low,87.23,9,8.26,0
+1207,Priya,20,Female,4.26,62.7,No,Yes,Bachelor,High,72.89,4,8.79,1
+1208,Sohan,21,Female,7.7,92.01,No,No,Bachelor,Low,66.95,7,6.83,0
+1209,Vikram,20,Female,7.11,69.35,No,No,Bachelor,,41.92,3,6.57,1
+1210,Sohan,24,Female,1.96,81.6,No,No,,,71.34,10,4.43,0
+1211,Sohan,21,Male,8.25,95.2,No,Yes,PhD,High,42.03,3,6.74,1
+1212,Priya,21,Male,2.63,86.04,Yes,No,Bachelor,Low,55.23,8,,0
+1213,Arjun,22,Male,2.63,81.32,No,Yes,Master,Low,43.57,8,7.04,0
+1214,Priya,19,Male,5.6,72.97,Yes,Yes,Master,High,76.52,1,5.94,1
+1215,Pooja,21,Female,6.13,73.32,Yes,Yes,,Medium,47.38,10,5.2,1
+1216,Amit,22,Female,6.01,86.78,No,No,,Low,58.51,2,4.47,0
+1217,Kiran,18,Male,,99.77,No,No,High School,Medium,88.74,8,5.57,1
+1218,Arjun,19,Male,8.84,86.47,Yes,No,High School,Low,47.26,1,4.48,0
+1219,Riya,24,Female,3.02,82.31,Yes,No,High School,Low,65.47,8,4.88,0
+1220,Kiran,21,Male,1.73,89.23,No,No,,Low,60.16,8,8.94,0
+1221,Amit,23,Female,8.94,78.61,No,Yes,,Low,36.09,2,6.22,1
+1222,Pooja,17,Male,,62.41,Yes,Yes,,,82.57,4,6.66,0
+1223,Pooja,18,Male,8.69,82.49,No,Yes,Master,Medium,39.14,6,8.37,1
+1224,Riya,18,Male,8.19,98.31,No,Yes,,Medium,63.46,9,8.98,0
+1225,Arjun,24,Male,6.72,,No,No,Master,Low,68.64,8,6.91,1
+1226,Vikram,22,Male,5.73,87.6,Yes,No,High School,Low,72.71,8,8.06,1
+1227,Sohan,18,Male,1.33,68.04,Yes,Yes,High School,Medium,76.32,7,5.63,0
+1228,Arjun,19,Male,4.38,81.43,Yes,No,High School,,50.2,9,5.53,1
+1229,Vikram,21,Female,4.04,63.87,No,No,Bachelor,High,35.6,2,6.01,0
+1230,Pooja,21,Female,2.97,78.01,No,Yes,Bachelor,High,78.41,3,7.36,0
+1231,Priya,23,Female,7.37,90.25,Yes,Yes,PhD,Medium,67.14,10,7.41,0
+1232,Amit,24,Female,,73.9,Yes,No,PhD,Low,85.17,8,5.58,0
+1233,Riya,17,Female,,86.6,Yes,No,PhD,Low,84.28,6,,0
+1234,Amit,22,Male,2.59,91.82,No,Yes,Bachelor,,85.6,10,7.16,1
+1235,Rahul,17,Male,6.99,97.09,Yes,Yes,Bachelor,High,64.11,9,4.64,0
+1236,Rahul,18,Female,1.22,69.39,Yes,Yes,PhD,,55.02,10,6.89,1
+1237,Arjun,24,Male,8.59,75.97,No,No,PhD,High,82.49,4,7.47,1
+1238,Pooja,23,Female,5.2,66.1,No,Yes,,Medium,62.08,8,7.5,0
+1239,Pooja,17,Female,5.07,99.7,No,Yes,PhD,High,46.01,10,7.77,1
+1240,Sohan,19,Male,6.13,97.08,Yes,No,,,86.3,3,8.36,0
+1241,Sohan,21,Male,8.33,81.6,No,No,Master,,87.95,3,6.5,1
+1242,Sohan,18,Male,3.8,93.68,No,No,Bachelor,,62.98,8,7.65,1
+1243,Priya,23,Female,6.94,80.84,Yes,No,PhD,Medium,39.54,5,7.1,1
+1244,Kiran,17,Male,5.87,84.94,No,No,Bachelor,High,58.27,3,4.93,0
+1245,Neha,22,Female,3.04,63.56,Yes,Yes,Bachelor,High,83.21,10,4.13,1
+1246,Kiran,19,Female,8.85,90.21,Yes,Yes,Bachelor,,89.11,1,5.42,0
+1247,Amit,19,Female,8.08,65.11,No,No,Master,High,47.21,3,6.22,1
+1248,Kiran,17,Male,6.76,93.04,No,No,High School,Low,39.02,9,7.09,1
+1249,Priya,21,Male,8.58,91.28,No,No,PhD,Low,87.64,5,8.25,1
+1250,Amit,17,Female,8.74,88.35,No,No,High School,Low,58.36,10,4.98,1
+1251,Kiran,18,Male,7.23,61.45,No,No,High School,High,67.51,2,4.63,0
+1252,Priya,17,Male,8.45,,No,Yes,High School,Medium,93.08,7,8.82,0
+1253,Neha,19,Male,7.13,70.52,Yes,Yes,Bachelor,Medium,38.99,2,4.54,1
+1254,Kiran,23,Female,6.96,74.41,Yes,Yes,,Medium,73.9,4,6.39,1
+1255,Priya,17,Female,,63.51,No,Yes,Bachelor,Medium,39.45,7,6.93,0
+1256,Sohan,21,Male,7.65,97.48,Yes,No,Bachelor,Low,57.53,4,6.71,0
+1257,Pooja,24,Female,2.01,82.15,No,Yes,High School,Low,83.23,7,,0
+1258,Sohan,23,Male,8.87,72.22,Yes,No,Bachelor,,61.01,7,4.29,0
+1259,Pooja,22,Male,8.78,75.88,Yes,No,High School,High,94.83,1,4.53,1
+1260,Riya,20,Male,0.78,77.89,Yes,No,,High,68.54,6,6.93,1
+1261,Riya,17,Male,8.35,84.02,No,Yes,PhD,Medium,54.27,9,6.72,0
+1262,Riya,21,Female,1.72,80.63,Yes,No,High School,Low,48.21,2,5.17,0
+1263,Neha,23,Female,3.68,96.78,No,Yes,,Medium,56.03,3,7.19,0
+1264,Sohan,21,Female,7.56,79.88,Yes,Yes,PhD,,57.35,10,8.1,0
+1265,Pooja,22,Male,2.03,99.69,Yes,No,Master,High,39.12,5,4.21,0
+1266,Priya,19,Male,,94.06,Yes,No,High School,High,57.17,9,6.49,0
+1267,Amit,21,Male,8.41,68.34,Yes,No,High School,Medium,62.85,4,7.45,1
+1268,Priya,23,Female,5.32,97.22,Yes,Yes,Master,,78.36,1,5.26,1
+1269,Amit,21,Male,0.56,,No,No,Master,High,74.4,4,5.54,1
+1270,Rahul,21,Female,3.23,92.7,No,Yes,High School,,77.53,6,7.07,0
+1271,Priya,21,Female,6.36,75.22,Yes,No,Master,,35.5,5,8.49,0
+1272,Kiran,18,Female,9.82,95.12,Yes,No,Bachelor,Medium,48.06,1,8.05,0
+1273,Kiran,18,Female,6.5,94.72,Yes,Yes,PhD,Low,74.7,4,6.92,1
+1274,Arjun,19,Female,2.97,92.24,Yes,Yes,PhD,Medium,64.04,6,7.65,0
+1275,Sohan,17,Female,6.52,91.6,No,Yes,PhD,Low,35.32,10,5.82,0
+1276,Amit,21,Male,5.63,,Yes,Yes,Bachelor,,83.27,10,7.2,1
+1277,Amit,22,Male,7.91,63.24,No,Yes,Master,Low,81.37,4,6.33,0
+1278,Sohan,17,Female,1.52,76.12,Yes,Yes,,,67.91,9,4.95,1
+1279,Neha,22,Female,7.73,66.94,No,No,Master,High,38.99,5,7.51,1
+1280,Arjun,17,Male,,87.8,Yes,No,High School,High,80.99,8,6.78,0
+1281,Neha,19,Female,9.65,73.84,Yes,Yes,PhD,High,70.02,9,5.79,1
+1282,Neha,21,Female,3.75,99.02,No,No,Master,Medium,81.92,10,8.56,0
+1283,Neha,21,Male,6.51,85.64,Yes,Yes,,Medium,80.1,5,4.1,1
+1284,Sohan,20,Female,9.35,92.9,Yes,No,High School,,83.18,6,5.58,0
+1285,Neha,22,Female,1.47,65.3,Yes,No,Bachelor,High,66.08,1,4.28,1
+1286,Kiran,17,Female,9.4,94.48,No,Yes,Bachelor,Medium,43.42,7,7.83,0
+1287,Riya,17,Male,7.03,96.91,Yes,Yes,,High,75.27,4,7.51,1
+1288,Rahul,24,Male,1.14,,Yes,Yes,High School,Medium,72.23,2,,1
+1289,Amit,24,Male,3.36,84.25,No,No,PhD,Low,79.54,5,7.38,1
+1290,Amit,18,Female,7.23,90.59,No,Yes,Master,Low,45.19,3,5.98,0
+1291,Rahul,20,Female,1.14,66.99,No,No,High School,High,46.7,6,7.78,0
+1292,Sohan,23,Male,6.03,80.1,Yes,Yes,Bachelor,,88.42,8,6.27,1
+1293,Priya,24,Female,3.79,75.95,Yes,No,,Medium,80.0,7,,0
+1294,Sohan,23,Female,6.4,65.85,Yes,No,,Medium,89.49,3,8.67,1
+1295,Amit,18,Female,0.93,74.7,No,Yes,Master,Low,80.52,8,5.25,0
+1296,Amit,18,Female,8.78,62.73,Yes,No,,Low,70.83,2,4.6,1
+1297,Rahul,18,Female,9.75,,Yes,No,,,74.25,10,6.92,0
+1298,Neha,22,Male,9.7,65.41,No,Yes,High School,,88.35,9,8.85,1
+1299,Sohan,22,Female,7.62,,No,No,PhD,,69.73,4,5.89,1
+1300,Pooja,19,Male,1.74,81.98,No,Yes,Master,High,72.94,1,4.31,1
+1301,Rahul,19,Female,7.7,98.63,No,Yes,High School,Low,44.39,8,5.7,1
+1302,Kiran,18,Male,0.73,77.3,No,Yes,PhD,High,63.44,7,6.53,0
+1303,Amit,20,Female,0.71,72.47,Yes,Yes,High School,Low,77.98,5,4.81,1
+1304,Rahul,17,Male,3.57,80.25,No,No,High School,Low,51.26,10,7.29,0
+1305,Sohan,22,Female,5.14,77.58,Yes,No,,Medium,47.14,5,8.99,0
+1306,Amit,20,Male,7.82,64.23,Yes,No,PhD,Low,53.83,7,6.26,1
+1307,Priya,21,Female,6.99,85.63,No,Yes,Master,Low,49.49,5,5.77,0
+1308,Rahul,22,Male,4.74,68.64,No,No,Master,High,47.89,8,6.0,0
+1309,Arjun,22,Female,3.1,84.78,No,No,PhD,Low,60.49,6,4.58,0
+1310,Amit,19,Male,9.97,86.01,Yes,Yes,,High,89.47,5,8.42,1
+1311,Sohan,17,Male,4.55,66.08,No,Yes,Bachelor,,65.42,9,6.07,0
+1312,Riya,17,Female,4.79,62.45,No,No,High School,Low,46.28,2,5.94,0
+1313,Pooja,24,Female,2.05,91.23,No,Yes,,Low,39.62,1,7.3,1
+1314,Vikram,23,Male,8.05,78.39,No,Yes,PhD,High,76.77,8,6.21,1
+1315,Neha,23,Female,7.09,62.33,No,Yes,High School,,57.97,3,7.24,0
+1316,Vikram,23,Male,2.6,99.79,Yes,Yes,Master,Medium,84.31,7,4.31,1
+1317,Sohan,23,Male,1.28,62.31,Yes,No,Bachelor,,74.57,10,8.07,0
+1318,Kiran,21,Male,6.96,87.8,Yes,Yes,Master,High,82.77,8,8.7,0
+1319,Kiran,21,Female,6.72,99.35,No,Yes,PhD,,51.32,6,7.24,0
+1320,Riya,22,Male,3.1,69.57,No,Yes,High School,High,76.54,10,8.77,1
+1321,Neha,18,Male,9.53,65.69,No,Yes,PhD,High,50.84,9,4.76,0
+1322,Arjun,19,Female,1.94,64.86,Yes,Yes,High School,Medium,91.34,7,6.39,1
+1323,Riya,19,Female,4.61,72.13,No,Yes,,Low,73.18,10,7.01,1
+1324,Vikram,23,Female,9.46,64.04,No,Yes,Bachelor,High,54.47,5,6.91,0
+1325,Riya,22,Female,4.49,87.69,No,Yes,,High,51.17,8,6.01,1
+1326,Vikram,24,Male,6.57,62.49,Yes,No,,Medium,46.46,2,5.69,1
+1327,Amit,20,Male,4.28,80.38,No,Yes,PhD,High,76.68,7,4.63,1
+1328,Kiran,18,Male,3.11,99.87,Yes,No,Bachelor,Low,48.12,4,5.96,1
+1329,Amit,22,Male,9.85,92.56,No,Yes,High School,Medium,70.72,9,4.81,1
+1330,Pooja,18,Female,4.39,84.61,Yes,Yes,High School,Low,50.88,1,7.67,0
+1331,Neha,18,Male,,72.25,Yes,Yes,Master,Low,74.72,7,5.04,1
+1332,Arjun,18,Male,2.68,84.96,Yes,Yes,High School,Medium,83.9,6,4.29,0
+1333,Vikram,22,Female,2.52,81.08,No,No,PhD,High,81.68,8,6.76,0
+1334,Arjun,23,Male,0.8,77.04,No,Yes,,Low,80.65,5,6.98,0
+1335,Vikram,19,Male,6.69,65.23,Yes,Yes,,Low,46.26,1,8.36,0
+1336,Sohan,19,Male,4.0,95.46,Yes,No,,Low,40.3,1,6.88,0
+1337,Riya,23,Male,8.71,,No,No,Bachelor,Low,76.94,9,5.73,0
+1338,Pooja,18,Male,5.0,67.78,No,Yes,High School,Medium,57.1,10,8.02,1
+1339,Kiran,20,Male,9.7,74.71,Yes,No,PhD,Medium,60.94,6,6.7,1
+1340,Vikram,17,Female,2.26,76.57,No,No,Bachelor,,36.87,10,4.4,1
+1341,Arjun,22,Female,8.75,93.1,No,No,Master,,50.57,5,,0
+1342,Pooja,17,Male,7.88,89.34,No,Yes,PhD,Low,37.02,1,8.54,1
+1343,Priya,24,Male,7.82,90.77,No,Yes,PhD,High,87.75,6,5.98,1
+1344,Priya,23,Female,8.53,60.44,Yes,Yes,PhD,Low,49.6,6,5.48,1
+1345,Amit,20,Male,7.73,76.65,No,No,,High,68.44,3,4.72,0
+1346,Kiran,22,Male,6.45,79.25,No,Yes,PhD,Low,37.34,8,,1
+1347,Sohan,23,Male,1.75,60.77,Yes,No,High School,,75.01,1,6.16,0
+1348,Arjun,18,Female,0.81,70.39,Yes,Yes,PhD,,54.38,1,6.98,1
+1349,Riya,19,Male,9.25,90.41,No,Yes,,High,88.88,6,4.4,0
+1350,Riya,17,Female,6.36,65.48,No,No,PhD,Low,88.29,10,8.7,0
+1351,Arjun,21,Male,8.07,,No,Yes,Master,High,54.52,1,7.78,0
+1352,Neha,21,Female,5.07,68.61,No,No,Master,,89.06,6,6.93,1
+1353,Sohan,20,Female,1.61,60.48,Yes,No,,Low,94.77,1,8.14,1
+1354,Pooja,18,Male,1.69,69.65,Yes,Yes,High School,Low,84.52,6,4.4,0
+1355,Vikram,24,Female,7.01,99.03,Yes,No,High School,High,85.69,3,,1
+1356,Neha,17,Male,4.59,92.06,No,Yes,Bachelor,Medium,49.94,8,,0
+1357,Vikram,18,Female,,98.38,No,Yes,,High,69.6,6,8.14,0
+1358,Vikram,17,Male,5.17,79.51,No,No,PhD,,39.04,1,7.92,1
+1359,Neha,20,Male,1.11,64.39,No,Yes,,,40.7,5,5.39,1
+1360,Amit,20,Female,6.03,81.92,Yes,No,Bachelor,,94.93,8,8.7,1
+1361,Priya,24,Male,3.06,78.18,Yes,Yes,,,54.6,3,4.62,0
+1362,Vikram,21,Male,8.08,93.77,No,Yes,,,79.89,6,8.38,0
+1363,Neha,18,Female,3.45,63.92,Yes,Yes,Bachelor,Medium,83.4,5,8.85,1
+1364,Neha,22,Male,4.82,79.53,No,Yes,High School,Low,86.48,6,4.89,0
+1365,Rahul,21,Male,0.61,66.0,No,Yes,PhD,High,94.86,10,7.61,1
+1366,Amit,18,Female,1.19,72.99,Yes,No,Bachelor,High,49.49,1,4.2,0
+1367,Kiran,21,Female,4.23,89.49,No,No,Master,,37.42,7,6.03,1
+1368,Rahul,22,Male,5.06,79.04,No,No,High School,High,59.67,9,6.58,1
+1369,Rahul,19,Male,6.2,,Yes,No,Master,,42.8,2,6.9,0
+1370,Arjun,19,Female,3.27,75.78,No,No,High School,Medium,36.35,10,8.68,1
+1371,Priya,24,Female,7.1,78.38,No,No,PhD,Medium,56.63,5,7.36,1
+1372,Neha,19,Male,,91.4,Yes,Yes,PhD,Low,82.02,10,6.41,0
+1373,Priya,19,Female,7.91,95.68,No,Yes,,Medium,68.97,4,8.05,1
+1374,Sohan,23,Male,0.88,98.21,Yes,No,Master,Medium,53.77,6,8.75,0
+1375,Arjun,17,Male,5.06,91.48,No,No,High School,Low,74.26,6,4.11,1
+1376,Kiran,23,Male,1.5,72.62,Yes,Yes,PhD,High,48.92,2,8.91,0
+1377,Priya,23,Male,,87.53,Yes,Yes,Bachelor,,35.86,2,4.43,1
+1378,Riya,24,Male,9.87,77.5,Yes,Yes,PhD,,80.86,4,8.07,1
+1379,Vikram,23,Female,1.85,70.19,No,No,Bachelor,High,72.42,1,5.4,1
+1380,Sohan,19,Female,5.24,93.63,Yes,No,High School,Low,80.74,9,4.66,1
+1381,Amit,22,Female,6.37,61.54,Yes,No,PhD,High,37.34,7,6.2,0
+1382,Kiran,24,Female,7.17,96.07,Yes,Yes,PhD,Medium,85.23,7,7.22,0
+1383,Sohan,24,Male,5.82,78.46,Yes,Yes,High School,Low,72.17,3,5.9,0
+1384,Vikram,20,Male,0.59,85.49,Yes,No,PhD,Low,68.8,3,4.27,0
+1385,Arjun,24,Male,3.6,86.37,No,No,Bachelor,Low,72.48,1,7.0,0
+1386,Vikram,20,Male,5.42,95.8,No,Yes,PhD,,86.87,3,8.51,0
+1387,Rahul,24,Female,1.33,85.47,No,Yes,Master,High,70.22,3,5.92,0
+1388,Vikram,17,Male,,84.56,No,Yes,,Low,69.86,4,5.08,1
+1389,Rahul,19,Male,0.82,,No,Yes,Bachelor,Low,94.44,4,6.21,1
+1390,Arjun,24,Female,1.25,80.74,No,No,Master,Low,80.4,3,4.24,1
+1391,Pooja,19,Female,4.27,66.01,No,Yes,High School,High,61.54,10,8.1,1
+1392,Rahul,19,Female,1.76,89.5,Yes,Yes,Bachelor,,77.44,8,8.13,0
+1393,Amit,21,Female,5.89,80.49,No,Yes,,Medium,58.35,8,6.94,0
+1394,Vikram,24,Male,7.05,87.21,Yes,No,,,48.73,1,5.77,0
+1395,Vikram,18,Male,8.11,61.67,Yes,No,High School,Low,70.81,7,8.0,1
+1396,Amit,21,Female,2.4,63.39,No,Yes,High School,,90.69,2,6.77,0
+1397,Riya,18,Male,2.09,88.65,Yes,Yes,Bachelor,,90.75,1,8.13,1
+1398,Neha,19,Male,,62.88,Yes,Yes,PhD,Medium,55.51,3,7.16,0
+1399,Pooja,19,Male,6.55,62.85,Yes,No,High School,High,66.66,4,7.92,0
+1400,Kiran,21,Female,7.21,60.48,Yes,No,PhD,High,47.7,6,6.99,0
+1401,Rahul,21,Male,0.8,98.26,No,No,Master,,94.74,10,6.07,0
+1402,Amit,18,Female,9.39,89.5,No,Yes,,,93.87,5,8.79,1
+1403,Arjun,20,Male,0.99,74.13,No,No,PhD,High,73.97,4,6.71,1
+1404,Rahul,18,Male,5.64,71.86,No,Yes,,High,83.26,8,7.03,0
+1405,Neha,21,Male,7.24,73.99,No,Yes,PhD,Medium,77.91,4,5.1,1
+1406,Arjun,22,Female,8.77,90.99,No,Yes,Master,Low,70.59,10,7.13,0
+1407,Sohan,21,Male,7.28,86.45,No,No,High School,,38.2,2,,0
+1408,Vikram,22,Female,8.12,67.41,No,Yes,Master,High,62.29,3,4.92,0
+1409,Sohan,17,Female,3.72,66.96,No,No,High School,,75.49,6,4.3,0
+1410,Rahul,21,Female,8.24,63.94,No,No,High School,,75.65,8,7.02,1
+1411,Neha,17,Male,1.26,86.41,Yes,Yes,,High,57.39,8,7.82,0
+1412,Pooja,20,Male,9.0,90.57,No,Yes,Master,Medium,91.5,9,6.62,0
+1413,Rahul,18,Male,5.7,70.6,Yes,No,PhD,,45.04,7,5.13,1
+1414,Amit,22,Male,8.26,60.84,Yes,Yes,Master,Medium,65.02,2,,0
+1415,Priya,18,Female,4.8,63.29,Yes,No,,High,76.45,8,4.4,1
+1416,Rahul,17,Female,6.61,98.71,Yes,Yes,High School,Low,76.83,7,6.21,0
+1417,Vikram,22,Female,5.5,71.82,No,No,,Low,73.92,8,4.82,0
+1418,Vikram,18,Male,7.45,90.77,Yes,No,Bachelor,,51.52,3,4.92,0
+1419,Rahul,21,Female,1.28,84.99,No,No,Bachelor,High,44.37,7,5.01,0
+1420,Arjun,19,Male,1.07,75.28,No,No,PhD,Medium,73.16,10,5.93,0
+1421,Priya,17,Female,2.85,68.23,Yes,Yes,,,70.96,9,4.26,0
+1422,Amit,18,Male,2.02,64.86,No,Yes,PhD,High,45.76,3,5.99,1
+1423,Rahul,17,Male,8.78,84.6,Yes,No,PhD,High,77.31,10,6.56,0
+1424,Arjun,23,Female,2.58,90.99,Yes,No,Bachelor,Medium,62.31,6,6.42,1
+1425,Vikram,17,Female,9.77,85.76,No,Yes,PhD,,75.07,2,5.91,1
+1426,Vikram,22,Female,3.7,81.21,No,Yes,Bachelor,High,85.24,2,8.2,0
+1427,Neha,23,Female,2.23,61.68,Yes,Yes,High School,High,45.18,5,4.73,1
+1428,Rahul,24,Male,8.0,98.74,No,Yes,,High,36.15,5,6.53,0
+1429,Priya,22,Female,6.76,91.95,No,Yes,PhD,Medium,81.75,7,4.31,1
+1430,Riya,19,Female,5.23,71.71,No,Yes,Bachelor,,71.58,2,4.36,0
+1431,Priya,23,Female,5.78,99.2,Yes,No,Master,,76.98,7,6.87,1
+1432,Vikram,24,Male,7.33,84.08,Yes,Yes,PhD,,85.29,5,6.83,1
+1433,Vikram,21,Male,2.67,83.3,No,Yes,High School,,83.17,6,8.39,0
+1434,Sohan,17,Female,9.97,89.92,No,No,High School,Low,92.66,8,,1
+1435,Vikram,18,Male,9.76,,No,Yes,Master,Low,67.16,10,8.8,0
+1436,Amit,20,Female,6.68,86.26,No,Yes,Bachelor,,64.31,4,4.24,0
+1437,Kiran,17,Male,2.4,65.12,No,Yes,PhD,Medium,59.11,7,4.49,0
+1438,Rahul,24,Male,6.96,73.53,Yes,Yes,Bachelor,Low,44.22,6,4.22,0
+1439,Priya,17,Male,1.19,97.12,No,Yes,High School,High,69.36,10,4.93,0
+1440,Kiran,19,Male,0.79,68.98,Yes,No,Bachelor,Low,51.62,2,6.71,1
+1441,Arjun,21,Female,2.95,74.89,No,Yes,High School,High,90.28,8,7.23,1
+1442,Riya,20,Female,4.89,77.28,Yes,No,Bachelor,,69.99,10,4.23,1
+1443,Amit,23,Female,8.75,77.58,No,No,Master,Low,70.57,9,8.73,0
+1444,Priya,23,Male,7.41,84.52,Yes,Yes,,Medium,56.3,5,8.21,1
+1445,Kiran,23,Female,7.56,,No,No,Master,Low,38.12,10,5.48,1
+1446,Riya,24,Female,4.54,69.63,Yes,Yes,Master,Low,36.9,4,4.39,1
+1447,Sohan,22,Female,3.79,64.86,Yes,No,,Low,60.4,6,,1
+1448,Amit,22,Male,4.02,67.9,Yes,No,,,40.07,8,4.63,1
+1449,Amit,18,Male,9.88,95.48,Yes,Yes,PhD,Medium,71.41,3,4.62,0
+1450,Sohan,20,Male,0.88,85.83,Yes,Yes,PhD,Low,87.86,10,6.59,0
+1451,Rahul,23,Female,8.74,71.44,Yes,Yes,Master,Medium,87.97,1,5.23,1
+1452,Sohan,22,Female,6.0,92.64,No,Yes,Master,,74.54,4,5.79,0
+1453,Amit,24,Female,4.67,94.45,Yes,Yes,High School,High,47.67,4,8.95,0
+1454,Amit,18,Male,7.39,93.86,No,No,High School,Low,86.78,1,7.42,1
+1455,Kiran,21,Male,5.12,96.76,No,No,PhD,Medium,88.17,9,8.74,1
+1456,Vikram,18,Female,8.8,70.09,No,No,PhD,Medium,46.8,3,4.71,0
+1457,Riya,22,Male,9.06,90.2,No,No,High School,,79.25,5,5.91,1
+1458,Sohan,19,Male,4.51,78.42,No,No,High School,Low,52.19,6,6.77,0
+1459,Riya,24,Male,3.13,,Yes,No,Bachelor,High,83.16,8,4.38,0
+1460,Sohan,19,Male,6.13,89.14,Yes,No,Bachelor,Medium,94.83,6,4.02,1
+1461,Arjun,23,Female,9.17,91.06,Yes,Yes,High School,Low,36.8,3,7.35,0
+1462,Amit,19,Male,2.5,86.25,No,Yes,Bachelor,High,88.84,6,7.21,0
+1463,Vikram,23,Male,6.42,67.1,Yes,No,,Medium,72.36,1,6.05,0
+1464,Kiran,23,Male,,,Yes,No,PhD,Medium,93.4,4,6.45,1
+1465,Vikram,22,Male,7.46,99.39,Yes,Yes,PhD,High,62.9,6,6.08,1
+1466,Vikram,19,Female,1.75,97.5,Yes,Yes,High School,High,85.84,7,4.12,1
+1467,Vikram,23,Female,7.3,61.73,Yes,Yes,Master,,38.74,10,5.68,1
+1468,Riya,20,Male,9.14,66.59,No,Yes,High School,Low,55.12,3,4.89,0
+1469,Sohan,21,Male,2.21,65.27,Yes,No,Bachelor,Low,39.02,9,4.49,1
+1470,Pooja,18,Male,2.76,89.04,No,Yes,Master,,93.52,7,8.78,1
+1471,Arjun,18,Male,9.73,92.71,No,No,Bachelor,Medium,84.02,1,7.0,1
+1472,Priya,22,Male,2.22,68.54,No,No,,High,86.15,2,7.64,1
+1473,Vikram,19,Male,8.62,80.23,No,No,Bachelor,High,91.28,1,5.58,0
+1474,Rahul,19,Female,5.18,93.63,No,Yes,,High,40.11,9,5.97,0
+1475,Riya,23,Male,2.85,89.31,Yes,Yes,,Medium,58.14,9,5.18,0
+1476,Kiran,24,Female,8.77,81.69,Yes,No,Bachelor,High,39.26,7,4.48,1
+1477,Priya,17,Female,4.73,83.61,Yes,No,Bachelor,High,47.65,10,4.9,1
+1478,Pooja,23,Male,5.39,80.33,No,No,,,48.76,3,7.99,0
+1479,Rahul,21,Female,3.91,71.9,Yes,Yes,Master,Medium,63.15,5,7.39,1
+1480,Pooja,20,Female,6.13,82.6,Yes,No,,Low,51.11,4,6.73,1
+1481,Priya,18,Female,2.05,87.56,No,Yes,PhD,,41.06,7,6.38,0
+1482,Vikram,23,Female,4.22,94.93,No,No,,,45.05,9,8.61,0
+1483,Rahul,17,Female,9.71,85.45,No,No,Master,Low,43.84,2,4.36,1
+1484,Pooja,17,Female,2.95,90.44,No,No,PhD,,93.38,8,5.4,1
+1485,Kiran,23,Male,6.74,66.4,Yes,Yes,High School,Medium,80.56,9,5.75,1
+1486,Sohan,22,Female,3.59,78.46,No,Yes,High School,High,93.07,10,7.91,0
+1487,Amit,18,Female,7.85,60.37,No,No,Master,Medium,61.38,10,8.96,0
+1488,Sohan,22,Female,1.74,69.87,Yes,Yes,,Low,51.7,9,5.2,0
+1489,Priya,20,Male,9.71,89.06,Yes,No,Bachelor,Low,82.9,10,8.37,0
+1490,Riya,17,Female,4.81,99.67,No,Yes,Master,,54.58,7,8.15,1
+1491,Amit,17,Male,2.74,63.97,Yes,Yes,PhD,Medium,52.96,9,5.12,0
+1492,Arjun,21,Female,1.2,76.06,No,Yes,PhD,Medium,48.95,9,6.0,0
+1493,Kiran,20,Male,2.11,92.0,No,No,High School,Low,42.78,3,6.05,1
+1494,Arjun,17,Male,5.44,68.16,Yes,Yes,PhD,Medium,50.39,4,8.89,1
+1495,Rahul,20,Female,3.7,82.2,Yes,Yes,Master,Low,56.32,2,4.9,1
+1496,Amit,18,Female,,89.32,No,No,PhD,Medium,75.44,10,8.0,0
+1497,Arjun,19,Male,4.59,84.64,No,No,Master,Medium,38.75,3,5.67,1
+1498,Arjun,17,Female,2.86,67.52,No,No,Bachelor,Medium,47.63,5,7.65,1
+1499,Pooja,21,Male,6.36,74.22,Yes,No,High School,Low,83.54,5,6.1,0
+1500,Sohan,18,Male,7.21,91.35,No,Yes,PhD,,43.82,6,6.89,0
