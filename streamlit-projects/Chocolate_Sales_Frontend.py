@@ -10,14 +10,14 @@ import joblib
 # LOAD SAVED ARTIFACTS
 # ===============================
 # ✅ model trained earlier
-model = joblib.load("big_sale_model.pkl")
+model = joblib.load("model/big_sale_model.pkl")
 
 # ✅ scaler fitted on training data
 scaler = joblib.load("scaler.pkl")
 
 # ✅ FEATURE NAMES (CRITICAL FIX)
 # 🔧 NEW: this guarantees inference uses EXACT same columns as training
-feature_names = joblib.load("feature_names.pkl")
+feature_names = joblib.load("model/feature_names.pkl")
 
 
 # ===============================

@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 # -----------------------------
 # Load data
 # -----------------------------
-df = pd.read_csv("student_performance_lr.csv")
+df = pd.read_csv("../data/student_performance_lr.csv")
 
 X = df[['study_hours','attendance_percent','previous_score',
         'sleep_hours','social_media_hours']]

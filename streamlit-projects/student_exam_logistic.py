@@ -17,7 +17,7 @@ st.write("Logistic Regression + StandardScaler")
 # ---------------------------
 # Load Data
 # ---------------------------
-df = pd.read_csv("student_pass_logistic.csv")
+df = pd.read_csv("../data/student_pass_logistic.csv")
 
 X = df[['study_hours', 'attendance', 'previous_score']]
 y = df['pass_exam']
